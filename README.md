@@ -2,4 +2,4 @@
 
 Includes VF Page and Apex Class!
 
-Visit my blog https://sfdcfanboy.com 
+To view the funtionality visually, visit https://sfdcfanboy.com/2016/06/14/visualforce-pagination-with-dynamic-search/
